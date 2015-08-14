@@ -1,0 +1,52 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookEntryUI.Designer.cs" caret="507" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookSearchUI.Designer.cs" caret="508" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:StudentEntryUI.Designer.cs" caret="0" fromTop="0" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:Student.cs" caret="0" fromTop="0" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:DBGateway.cs" caret="569" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:AdminManager.cs" caret="248" fromTop="11" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:LogInUI.cs" caret="540" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:LogInUI.Designer.cs" caret="1252" fromTop="33" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:IssueBook.cs" caret="0" fromTop="0" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:BookManager.cs" caret="1242" fromTop="25" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/f:Program.cs" caret="557" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:ReturnBookUI.Designer.cs" caret="508" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:StudentManager.cs" caret="966" fromTop="20" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:Book.cs" caret="732" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:IssueBookUI.Designer.cs" caret="70" fromTop="2" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:MainManuUI.cs" caret="611" fromTop="25" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:MainManuUI.Designer.cs" caret="5477" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookEntryUI.cs" caret="4469" fromTop="28" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:StudentEntryUI.cs" caret="3654" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookSearchUI.cs" caret="2554" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:BookGateway.cs" caret="9106" fromTop="22" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:IssueGateway.cs" caret="2487" fromTop="9" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:IssueManager.cs" caret="809" fromTop="20" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:ReturnBookUI.cs" caret="2005" fromTop="5" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:IssueBookUI.cs" caret="7294" fromTop="12" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:StudentGateway.cs" caret="4704" fromTop="23" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/f:App.config" caret="158" fromTop="3" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:Book.cs" caret="335" fromTop="13" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:LogInUI.cs" caret="643" fromTop="24" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:Student.cs" caret="338" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:StudentManager.cs" caret="307" fromTop="13" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:BookManager.cs" caret="1338" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:ReturnBookUI.Designer.cs" caret="14630" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:DAO/f:IssueBook.cs" caret="338" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:BLL/f:IssueManager.cs" caret="770" fromTop="27" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:BookGateway.cs" caret="8719" fromTop="38" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/f:Program.cs" caret="557" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:MainManuUI.Designer.cs" caret="5477" fromTop="19" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:MainManuUI.cs" caret="611" fromTop="11" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookEntryUI.cs" caret="4270" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:BookSearchUI.cs" caret="6748" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:StudentEntryUI.cs" caret="3677" fromTop="21" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:ReturnBookUI.cs" caret="6012" fromTop="17" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:StudentGateway.cs" caret="4466" fromTop="14" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:DAL/d:Gateway/f:IssueGateway.cs" caret="3366" fromTop="30" />
+    <File id="79448563-508B-4F26-9604-976718CB9E41/d:UI/f:IssueBookUI.cs" caret="7338" fromTop="12" />
+  </RecentEdits>
+</RecentFiles>
